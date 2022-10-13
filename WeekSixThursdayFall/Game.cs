@@ -21,9 +21,9 @@ namespace WeekSixThursdayFall
 
         public Game()
         {
+            //Adding some comments to create a new commit
 
-
-        }   
+        }
 
         public void LoadGame()
         {
@@ -46,6 +46,11 @@ namespace WeekSixThursdayFall
             };
             string json = JsonSerializer.Serialize(savedGame);
             File.WriteAllText(gamePath, json);
+        }
+
+        public void DummyMethod()
+        {
+            Console.WriteLine("Hello World");
         }
 
     }

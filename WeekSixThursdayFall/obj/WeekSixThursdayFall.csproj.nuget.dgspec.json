@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emre\\Source\\Repos\\WeekSixThursdayFall\\WeekSixThursdayFall\\WeekSixThursdayFall.csproj": {}
+    "C:\\Temp\\Game\\thursday-demo\\WeekSixThursdayFall\\WeekSixThursdayFall.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emre\\Source\\Repos\\WeekSixThursdayFall\\WeekSixThursdayFall\\WeekSixThursdayFall.csproj": {
+    "C:\\Temp\\Game\\thursday-demo\\WeekSixThursdayFall\\WeekSixThursdayFall.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emre\\Source\\Repos\\WeekSixThursdayFall\\WeekSixThursdayFall\\WeekSixThursdayFall.csproj",
+        "projectUniqueName": "C:\\Temp\\Game\\thursday-demo\\WeekSixThursdayFall\\WeekSixThursdayFall.csproj",
         "projectName": "WeekSixThursdayFall",
-        "projectPath": "C:\\Users\\emre\\Source\\Repos\\WeekSixThursdayFall\\WeekSixThursdayFall\\WeekSixThursdayFall.csproj",
+        "projectPath": "C:\\Temp\\Game\\thursday-demo\\WeekSixThursdayFall\\WeekSixThursdayFall.csproj",
         "packagesPath": "C:\\Users\\emre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emre\\Source\\Repos\\WeekSixThursdayFall\\WeekSixThursdayFall\\obj\\",
+        "outputPath": "C:\\Temp\\Game\\thursday-demo\\WeekSixThursdayFall\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\VS15Preview\\NuGetPackages",
