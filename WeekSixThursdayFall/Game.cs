@@ -51,6 +51,8 @@ namespace WeekSixThursdayFall
         public void DummyMethod()
         {
             Console.WriteLine("Hello World");
+
+            //New branch changes
         }
 
     }
