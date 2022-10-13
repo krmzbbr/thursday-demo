@@ -1,1 +1,3 @@
 # thursday-demo
+
+Hello class
